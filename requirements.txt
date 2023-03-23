@@ -1,7 +1,7 @@
-streamlit_option_menu==0.3.2
-numpy==1.20.2
-pandas==1.4.3
-plotly==5.9.0
-matplotlib==3.5.2
-Sklearn==0.20
-seaborn==12.2
+streamlit==1.2.0
+pandas @ file:///C:/ci/pandas_1650373458095/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1649782970434/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
+plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
+sklearn==0.0
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
